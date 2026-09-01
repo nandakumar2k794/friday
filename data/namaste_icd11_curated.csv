@@ -1,0 +1,51 @@
+namaste_code,namaste_title_en,namaste_title_sanskrit,system,icd11_tm2_code,icd11_tm2_title,equivalence
+SR11,Vata Vyadhi (Vata disorder - general),वातव्याधि,Ayurveda,TM2A0,Wind pattern disorder,equivalent
+SR12,Amavata (Rheumatoid-type joint disease),आमवात,Ayurveda,TM2B1.0,Wind-cold-damp painful obstruction pattern,related
+SR13,Sandhivata (Osteoarthritis-type joint disease),सन्धिवात,Ayurveda,FA00,Osteoarthritis of joint,related
+SR14,Grahani (Malabsorption/IBS-type disorder),ग्रहणी,Ayurveda,DD91,Irritable bowel syndrome,related
+SR15,Prameha (Diabetes-type urinary disorder),प्रमेह,Ayurveda,5A10,Type 1 diabetes mellitus,related
+SR16,Kamala (Jaundice),कामला,Ayurveda,DB90,Jaundice,equivalent
+SR17,Pandu (Anemia-type disorder),पाण्डु,Ayurveda,3A00,Anaemia,related
+SR18,Kasa (Cough disorder),कास,Ayurveda,MD12,Cough,equivalent
+SR19,Shwasa (Dyspnea/Asthma-type disorder),श्वास,Ayurveda,CA23,Asthma,related
+SR20,Jwara (Fever disorder),ज्वर,Ayurveda,MG30,Fever of unknown origin,related
+SR21,Atisara (Diarrhoea),अतिसार,Ayurveda,ME05,Diarrhoea,equivalent
+SR22,Arsha (Haemorrhoids),अर्श,Ayurveda,DB33,Haemorrhoids,equivalent
+SR23,Gulma (Abdominal mass/tumour-type disorder),गुल्म,Ayurveda,DA95,Abdominal mass,related
+SR24,Udara Roga (Ascites/abdominal distension disorder),उदररोग,Ayurveda,DB99,Ascites,related
+SR25,Hridroga (Cardiac disorder),हृद्रोग,Ayurveda,BA00,Ischaemic heart disease,related
+SR26,Raktapitta (Bleeding disorder - pitta type),रक्तपित्त,Ayurveda,MG27,Haemorrhage not elsewhere classified,related
+SR27,Unmada (Psychosis-type mental disorder),उन्माद,Ayurveda,6A20,Schizophrenia,related
+SR28,Apasmara (Epilepsy-type disorder),अपस्मार,Ayurveda,8A60,Epilepsy,related
+SR29,Vatarakta (Gout-type disorder),वातरक्त,Ayurveda,FA25,Gout,related
+SR30,Shotha (Inflammation/oedema disorder),शोथ,Ayurveda,MG29,Oedema not elsewhere classified,related
+SR31,Kushtha (Chronic skin disorder),कुष्ठ,Ayurveda,EA90,Chronic skin disorder,related
+SR32,Switra (Vitiligo-type skin disorder),श्वित्र,Ayurveda,ED63,Vitiligo,related
+SR33,Netraroga (Eye disorder - general),नेत्ररोग,Ayurveda,9A00,Disorder of eye or adnexa,related
+SR34,Karnaroga (Ear disorder - general),कर्णरोग,Ayurveda,AB00,Disorder of ear or mastoid process,related
+SR35,Mukharoga (Oral cavity disorder),मुखरोग,Ayurveda,DA0Z,Disorder of oral cavity,related
+SR36,Shirahshoola (Headache disorder),शिरःशूल,Ayurveda,8A80,Headache disorder,equivalent
+SR37,Nidranasha (Insomnia),निद्रानाश,Ayurveda,7A00,Insomnia disorder,equivalent
+SR38,Manodaurbalya (General debility/weakness),मनोदौर्बल्य,Ayurveda,MG22,Malaise and fatigue,related
+SR39,Agnimandya (Digestive fire impairment/dyspepsia),अग्निमांद्य,Ayurveda,DD90,Functional dyspepsia,related
+SR40,Vrana (Wound/ulcer disorder),व्रण,Ayurveda,EH70,Chronic skin ulcer,related
+SM01,Vatha Suronitham (Vatha-Rakta joint disorder - Siddha),வாத சூரணிதம்,Siddha,FA25,Gout,related
+SM02,Meganoi (Diabetes-type disorder - Siddha),மேக நோய்,Siddha,5A10,Type 1 diabetes mellitus,related
+SM03,Iraippu (Asthma-type disorder - Siddha),இரைப்பு,Siddha,CA23,Asthma,related
+SM04,Kaisal (Cough - Siddha),கைசல்,Siddha,MD12,Cough,equivalent
+SM05,Pandu Suronitham (Anaemia-type disorder - Siddha),பாண்டு சூரணிதம்,Siddha,3A00,Anaemia,related
+SM06,Kalladaippu (Renal calculi - Siddha),கல் அடைப்பு,Siddha,GB70,Urolithiasis,related
+SM07,Vali Keel Vayu (Joint pain disorder - Siddha),வலி கீல் வாயு,Siddha,FA00,Osteoarthritis of joint,related
+SM08,Kirandhi (Diarrhoea - Siddha),கிரந்தி,Siddha,ME05,Diarrhoea,equivalent
+SM09,Sooniyam (Skin disorder - Siddha),சூனியம்,Siddha,EA90,Chronic skin disorder,related
+SM10,Thalai Vali (Headache - Siddha),தலைவலி,Siddha,8A80,Headache disorder,equivalent
+SN01,Waja-ul-Mafasil (Joint pain - Unani),وجع المفاصل,Unani,FA00,Osteoarthritis of joint,related
+SN02,Ziabetus (Diabetes - Unani),ذیابیطس,Unani,5A10,Type 1 diabetes mellitus,related
+SN03,Yarqan (Jaundice - Unani),یرقان,Unani,DB90,Jaundice,equivalent
+SN04,Suual (Cough - Unani),سعال,Unani,MD12,Cough,equivalent
+SN05,Rabw (Asthma - Unani),ربو,Unani,CA23,Asthma,related
+SN06,Ishal (Diarrhoea - Unani),اسہال,Unani,ME05,Diarrhoea,equivalent
+SN07,Sudae (Headache - Unani),صداع,Unani,8A80,Headache disorder,equivalent
+SN08,Waram (Inflammation/swelling - Unani),ورم,Unani,MG29,Oedema not elsewhere classified,related
+SN09,Bars (Vitiligo - Unani),برص,Unani,ED63,Vitiligo,related
+SN10,Kalaf (Skin discolouration disorder - Unani),کلف,Unani,ED70,Disorder of skin pigmentation,related
